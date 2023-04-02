@@ -6,7 +6,7 @@
 
 # Task-1 : Text Editor in Python
  
- ## - Review the link given below:
+ ## - Check the link given below:
  https://github.com/izhangit/Text-Editor-in-Python
  
  
